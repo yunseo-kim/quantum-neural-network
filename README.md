@@ -8,7 +8,7 @@
 |Kifumi Numata|[@kifumi](https://github.com/kifumi)|Coach, Qiskit Advocate|
 |Anna Phan|[@attp](https://github.com/attp)|Coach, Qiskit Advocate|
 |Dohun Kim|[@yh08037](https://github.com/yh08037)|Code development - model1/model2|
-|Yunseo Kim|[@yunseo-kim](https://github.com/Yunseo47)|Code development - model2, Presentation|
+|Yunseo Kim|[@yunseo-kim](https://github.com/yunseo-kim)|Code development - model2, Presentation|
 |Jaehoon Hahm|[@Jaehoon-zx](https://github.com/Jaehoon-zx)|Create presentation slides, Presentation|
 |DaeHeon Yoon|[@Greathoney](https://github.com/Greathoney)|Code development - model1, Create presentation slides|
 |Yoon Kwon|[@vhapfks](https://github.com/vhapfks)|Create presentation slides|
